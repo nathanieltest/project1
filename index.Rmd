@@ -19,7 +19,7 @@ tidy=TRUE, tidy.opts=list(width.cutoff=60), R.options=list(max.print=100))
 
 ## Data Wrangling, Exploration, Visualization
 
-### Name and EID here
+### Nathaniel Woodward
 
 #### Introduction 
 
@@ -28,6 +28,7 @@ Paragraph or two introducing your datasets and variables, why they are interesti
 ```{R}
 # read your datasets in here, e.g., with read_csv()
 
+head(mtcars)
 ```
 
 #### Tidying: Reshaping
